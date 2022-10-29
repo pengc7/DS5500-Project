@@ -1,4 +1,4 @@
-# DS5500-Project
+# Drug-disease association prediction
 
 The process of producing a new drug is a very time-consuming and expensive process, which could take more than ten years and approximately 1 billion dollars to develop a new drug. Therefore, it could effectively save time and costs to identify new drug-disease associations for new or approved drugs through computational methods. 
 
